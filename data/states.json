@@ -1,0 +1,170 @@
+[
+	{
+		"abbr": "AC",
+		"name": "Acre",
+		"capital": "Rio Branco",
+		"lat": -9.9750,
+		"long": -67.8244
+	},
+	{
+		"abbr": "AL",
+		"name": "Alagoas",
+		"capital": "Maceió",
+		"lat": -9.6658,
+		"long": -35.7381
+	},
+	{
+		"abbr": "AP",
+		"name": "Amapá",
+		"capital": "Macapá",
+		"lat": 0.0384,
+		"long": -51.0650
+	},
+	{
+		"abbr": "AM",
+		"name": "Amazonas",
+		"capital": "Manaus",
+		"lat": -3.1190,
+		"long": -60.0242
+	},
+	{
+		"abbr": "BA",
+		"name": "Bahia",
+		"capital": "Salvador",
+		"lat": -12.9722,
+		"long": -38.5011
+	},
+	{
+		"abbr": "CE",
+		"name": "Ceará",
+		"capital": "Fortaleza",
+		"lat": -3.7196,
+		"long": -38.5266
+	},
+	{
+		"abbr": "DF",
+		"name": "Distrito Federal",
+		"capital": "Brasília",
+		"lat": -15.7942,
+		"long": -47.8825
+	},
+	{
+		"abbr": "ES",
+		"name": "Espírito Santo",
+		"capital": "Vitória",
+		"lat": -20.3166,
+		"long": -40.2976
+	},
+	{
+		"abbr": "GO",
+		"name": "Goiás",
+		"capital": "Goiânia",
+		"lat": -16.6869,
+		"long": -49.2648
+	},
+	{
+		"abbr": "MA",
+		"name": "Maranhão",
+		"capital": "São Luís",
+		"lat": -2.5298,
+		"long": -44.3044
+	},
+	{
+		"abbr": "MT",
+		"name": "Mato Grosso",
+		"capital": "Cuiabá",
+		"lat": -15.5989,
+		"long": -56.0952
+	},
+	{
+		"abbr": "MS",
+		"name": "Mato Grosso do Sul",
+		"capital": "Campo Grande",
+		"lat": -20.4697,
+		"long": -54.6012
+	},
+	{
+		"abbr": "MG",
+		"name": "Minas Gerais",
+		"capital": "Belo Horizonte",
+		"lat": -19.9245,
+		"long": -43.9352
+	},
+	{
+		"abbr": "PA",
+		"name": "Pará",
+		"capital": "Belém",
+		"lat": -1.4550,
+		"long": -48.5062
+	},
+	{
+		"abbr": "PB",
+		"name": "Paraíba",
+		"capital": "João Pessoa",
+		"lat": -7.1195,
+		"long": -34.8631
+	},
+	{
+		"abbr": "PR",
+		"name": "Paraná",
+		"capital": "Curitiba",
+		"lat": -25.4244,
+		"long": -49.2654
+	},
+	{
+		"abbr": "PE",
+		"name": "Pernambuco",
+		"capital": "Recife",
+		"lat": -8.0756,
+		"long": -34.8713
+	},
+	{
+		"abbr": "PI",
+		"name": "Piauí",
+		"capital": "Teresina",
+		"lat": -5.0919,
+		"long": -42.8034
+	},
+	{
+		"abbr": "RJ",
+		"name": "Rio de Janeiro",
+		"capital": "Rio de Janeiro",
+		"lat": -22.9068,
+		"long": -43.1729
+	},
+	{
+		"abbr": "RN",
+		"name": "Rio Grande do Norte",
+		"capital": "Natal",
+		"lat": -5.7935,
+		"long": -35.2023
+	},
+	{
+		"abbr": "RS",
+		"name": "Rio Grande do Sul",
+		"capital": "Porto Alegre",
+		"lat": -30.0347,
+		"long": -51.2177
+	},
+	{
+		"abbr": "RO",
+		"name": "Rondônia",
+		"capital": "Porto Velho",
+		"lat": -8.7610,
+		"long": -63.8989
+	},
+	{
+		"abbr": "RR",
+		"name": "Roraima",
+		"capital": "Boa Vista",
+		"lat": 2.8187,
+		"long": -60.6700
+	},
+	{
+		"abbr": "SC",
+		"name": "Santa Catarina",
+		"capital": "Florianópolis",
+		"lat": -27.5941,
+		"long": -48
+  }
+]
