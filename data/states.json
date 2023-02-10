@@ -166,5 +166,26 @@
 		"capital": "Florianópolis",
 		"lat": -27.5941,
 		"long": -48
-  }
+  	},
+	{
+		"abbr": "SP",
+		"name": "São Paulo",
+		"capital": "São Paulo",
+		"lat": -23.550520,
+		"long": -46.633308
+	},
+	{
+		"abbr": "SE",
+		"name": "Sergipe",
+		"capital": "Aracaju",
+		"lat": -10.917861,
+		"long": -37.075157
+	},
+	{
+		"abbr": "TO",
+		"name": "Tocantins",
+		"capital": "Palmas",
+		"lat": "-10.184510",
+		"long": "-48.334660"
+	}
 ]
